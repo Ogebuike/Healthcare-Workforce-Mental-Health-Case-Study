@@ -1,4 +1,6 @@
 ![Uploading DASHBOARD 2.png…]()
+
+
 **💊 Healing the Healers: A Data-Driven Look into Healthcare Worker Burnout**
 In a profession built around healing, healthcare workers are increasingly the ones most in need of care.
 This project presents a critical analysis of burnout, stress, and job dissatisfaction across 5,000 healthcare employees, offering an urgent call for organizational change grounded in hard data.
